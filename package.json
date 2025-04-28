@@ -1,0 +1,12 @@
+{
+  "name": "music-player-fixed",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^27.3.11",
+    "music-metadata": "^7.13.3"
+  }
+}
